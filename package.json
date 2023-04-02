@@ -18,5 +18,7 @@
   "homepage": "https://github.com/pendyalasaikumar1107/React#readme",
   "devDependencies": {
     "parcel": "^2.8.3"
-  }
+  },
+  "browserslist": ["last 2 versions"]
+  
 }
